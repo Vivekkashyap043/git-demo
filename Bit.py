@@ -8,3 +8,7 @@ for i in range(t):
         count -= 1    
         
 print(count)    
+
+
+def hello():
+    print("ok")
